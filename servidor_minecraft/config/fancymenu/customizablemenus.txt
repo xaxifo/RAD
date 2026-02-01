@@ -1,0 +1,11 @@
+type = customizablemenus
+
+net.minecraft.client.gui.GuiIngameMenu {
+}
+
+com.pg85.otg.forge.gui.mainmenu.OTGGuiWorldSelection {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
